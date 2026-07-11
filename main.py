@@ -24,12 +24,12 @@ def main():
     # # ==========================================
 
     # # 1. Configura os caminhos
-    # DATA_DIR = ".\\data\\zips" #Onde ficam os ZIPs (separados nas pastas /python e /java)
-    # OUTPUT_DIR = ".\\reports" #Onde os JSONs vão cair
+    DATA_DIR = ".\\data\\zips" #Onde ficam os ZIPs (separados nas pastas /python e /java)
+    OUTPUT_DIR = ".\\reports" #Onde os JSONs vão cair
 
     # 1. Configura os caminhos
-    DATA_DIR = ".\\data_test" #Onde ficam os ZIPs (separados nas pastas /python e /java)
-    OUTPUT_DIR = ".\\reports_elastic" #Onde os JSONs vão cair
+    # DATA_DIR = ".\\data_test" #Onde ficam os ZIPs (separados nas pastas /python e /java)
+    # OUTPUT_DIR = ".\\reports_elastic" #Onde os JSONs vão cair
     
     # 2. Instancia as dependências
     parsers = {

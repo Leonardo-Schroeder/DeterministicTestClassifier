@@ -1,12 +1,10 @@
 venv/
 env/
-data/
 data_test/
 *.zip
 *.tar.gz
 *.csv
 *.xlsx
-*.json
 *.sqlite3
 __pycache__/
 *.pyc

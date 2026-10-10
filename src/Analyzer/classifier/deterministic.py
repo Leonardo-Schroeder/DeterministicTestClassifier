@@ -5,6 +5,10 @@ from src.Analyzer.models.reports import TestCaseAnalysis
 
 class DeterministicClassifier:
     def __init__(self):
+
+        self.total_invocacoes = 0
+        self.total_unknowns = 0
+
         self.io_namespaces = (
             'java.sql', 'java.net', 'java.io', 'java.nio', 'javax.net',
             'org.apache.http', 'okhttp3', 'requests', 'urllib', 'aiohttp', 'socket',
@@ -39,6 +43,10 @@ class DeterministicClassifier:
 
         # 1. VARREDURA DE MÉTODOS
         for inv in ast_context.invocations:
+            self.total_invocacoes += 1
+            if inv.caller_type == 'UNKNOWN':
+                self.total_unknowns += 1
+
             caller_lower = inv.caller_type.lower()
             method_lower = inv.method_name.lower()
 

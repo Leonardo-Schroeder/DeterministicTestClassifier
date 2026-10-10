@@ -1,0 +1,1577 @@
+[
+  {
+    "method_name": "testFromMap_ChunkLongDocumentStrategySelected_CreatesSettingsCorrectly",
+    "file_path": "elasticsearch-main/x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/services/elasticsearch/ElasticRerankerServiceSettingsTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testSliceIntoSubRequests",
+    "file_path": "elasticsearch-main/modules/reindex/src/test/java/org/elasticsearch/reindex/BulkByPaginatedSearchParallelizationHelperTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testBasicSerialization",
+    "file_path": "elasticsearch-main/libs/geo/src/test/java/org/elasticsearch/geometry/PolygonTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testIsIndexed",
+    "file_path": "elasticsearch-main/x-pack/plugin/rank-vectors/src/test/java/org/elasticsearch/xpack/rank/vectors/mapper/RankVectorsFieldTypeTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testBasicCtor",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/index/analysis/ReloadableCustomAnalyzerTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testRemovingArchivedSettingsDoesNotRemoveNonArchivedInvalidOrUnknownSettings",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/common/settings/SettingsUpdaterTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testCompression",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/common/UUIDTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testRemoteClusterClientRole",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/action/admin/cluster/remote/RemoteInfoIT.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Integração",
+    "concorda": false
+  },
+  {
+    "method_name": "testTwoEqualsWithOr",
+    "file_path": "elasticsearch-main/x-pack/plugin/ql/src/test/java/org/elasticsearch/xpack/ql/optimizer/OptimizerRulesTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testPrefixIntervals",
+    "file_path": "elasticsearch-main/modules/mapper-extras/src/test/java/org/elasticsearch/index/mapper/extras/MatchOnlyTextFieldTypeTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testIndexPatternDoesntExist",
+    "file_path": "elasticsearch-main/x-pack/plugin/ml/src/test/java/org/elasticsearch/xpack/ml/datafeed/DatafeedNodeSelectorTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testBM25AndKnnWithBucketAggregation",
+    "file_path": "elasticsearch-main/x-pack/plugin/rank-rrf/src/internalClusterTest/java/org/elasticsearch/xpack/rank/rrf/RRFRankSingleShardIT.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Integração",
+    "concorda": false
+  },
+  {
+    "method_name": "testEmptyIterator",
+    "file_path": "elasticsearch-main/x-pack/plugin/esql/compute/src/test/java/org/elasticsearch/compute/operator/PageRowLimitingIteratorTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testIncrementInt",
+    "file_path": "elasticsearch-main/modules/lang-painless/src/test/java/org/elasticsearch/painless/IncrementTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testPropagateEquals_VarEq2OrVarGt1",
+    "file_path": "elasticsearch-main/x-pack/plugin/esql/src/test/java/org/elasticsearch/xpack/esql/optimizer/rules/logical/PropagateEqualsTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testClientIdSettingRequired",
+    "file_path": "elasticsearch-main/x-pack/extras/plugins/microsoft-graph-authz/src/test/java/org/elasticsearch/xpack/security/authz/microsoft/MicrosoftGraphAuthzRealmTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": false
+  },
+  {
+    "method_name": "testInt7uBulkWithIdentityOffsets",
+    "file_path": "elasticsearch-main/libs/native/src/test/java/org/elasticsearch/nativeaccess/jdk/JDKVectorLibraryInt7uTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testLatLonAzimuthRads",
+    "file_path": "elasticsearch-main/libs/h3/src/test/java/org/elasticsearch/h3/LatLngTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testStoreInArray",
+    "file_path": "elasticsearch-main/modules/lang-painless/src/test/java/org/elasticsearch/painless/RegexTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": false
+  },
+  {
+    "method_name": "testPreventJoinClusterWithUnsupportedMappingsVersion",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/cluster/version/CompatibilityVersionsTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testRandomWrites",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/common/io/stream/StreamOutputToBytesTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testPrepareRequest_emptyPayload_badRequestError",
+    "file_path": "elasticsearch-main/x-pack/plugin/ent-search/src/test/java/org/elasticsearch/xpack/application/connector/action/RestUpdateConnectorApiKeyIdActionTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testWrapsAround",
+    "file_path": "elasticsearch-main/x-pack/plugin/esql/src/test/java/org/elasticsearch/xpack/esql/plugin/RoundRobinStrategyTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testBasicWithIvfPq",
+    "file_path": "elasticsearch-main/libs/gpu-codec/src/test/java/org/elasticsearch/gpu/codec/CuVSResourceManagerTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testDrainEmptyIterator",
+    "file_path": "elasticsearch-main/x-pack/plugin/esql/src/test/java/org/elasticsearch/xpack/esql/datasources/ExternalSourceDrainUtilsTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testXContent_missingRecentWriteAndPeakLoad",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/cluster/metadata/IndexWriteLoadTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testDoCheckAndPublishIgnoresPublishWhenCheckErrors",
+    "file_path": "elasticsearch-main/x-pack/plugin/monitoring/src/test/java/org/elasticsearch/xpack/monitoring/exporter/http/PublishableHttpResourceTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testValidate_ServiceIntegrationValidatorThrowsException",
+    "file_path": "elasticsearch-main/x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/services/validation/SimpleModelValidatorTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testIsResettingBuckets",
+    "file_path": "elasticsearch-main/x-pack/plugin/ml/src/test/java/org/elasticsearch/xpack/ml/job/process/autodetect/params/DataLoadParamsTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testTopNNullsLast",
+    "file_path": "elasticsearch-main/x-pack/plugin/esql/compute/src/test/java/org/elasticsearch/compute/operator/HashAggregationOperatorTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testLoggerUsageChecks",
+    "file_path": "elasticsearch-main/test/logger-usage/src/test/java/org/elasticsearch/test/loggerusage/ESLoggerUsageTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testWhitespace",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/common/ReferenceDocsTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testReindexIsNotRequiredOnOldSearchableSnapshot",
+    "file_path": "elasticsearch-main/x-pack/plugin/core/src/test/java/org/elasticsearch/xpack/core/deprecation/DeprecatedIndexPredicateTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Traço de Componente",
+    "concorda": false
+  },
+  {
+    "method_name": "testCombineCIDRMatchEqualsIns",
+    "file_path": "elasticsearch-main/x-pack/plugin/esql/src/test/java/org/elasticsearch/xpack/esql/optimizer/rules/logical/CombineDisjunctionsTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testSortedSetDocValuesSingleUniqueValue",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/index/codec/tsdb/ES87TSDBDocValuesFormatTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Integração",
+    "concorda": false
+  },
+  {
+    "method_name": "testWhereClause",
+    "file_path": "elasticsearch-main/x-pack/plugin/sql/src/test/java/org/elasticsearch/xpack/sql/optimizer/OptimizerRunTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testAddParameters",
+    "file_path": "elasticsearch-main/client/rest/src/test/java/org/elasticsearch/client/RequestOptionsTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testGetStoreOnlyUsers",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/action/user/TransportGetUsersActionTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Traço de Componente",
+    "concorda": false
+  },
+  {
+    "method_name": "testTransform",
+    "file_path": "elasticsearch-main/x-pack/plugin/sql/src/test/java/org/elasticsearch/xpack/sql/expression/function/scalar/string/BinaryStringStringPipeTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testGetStatsWithCachingEnabled",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/action/admin/cluster/allocation/TransportGetAllocationStatsActionTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Traço de Componente",
+    "concorda": false
+  },
+  {
+    "method_name": "testPersistBucket_OneRecord",
+    "file_path": "elasticsearch-main/x-pack/plugin/ml/src/test/java/org/elasticsearch/xpack/ml/job/persistence/JobResultsPersisterTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testSubAggs",
+    "file_path": "elasticsearch-main/x-pack/plugin/analytics/src/test/java/org/elasticsearch/xpack/analytics/aggregations/bucket/histogram/HistoBackedHistogramAggregatorTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Integração",
+    "concorda": false
+  },
+  {
+    "method_name": "testEncodesChunkedXContentCorrectly",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/rest/ChunkedRestResponseBodyPartTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testEncodeOrdinalsTwoValuesGrande",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/index/codec/tsdb/ES87TSDBDocValuesEncoderTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testChangeSettingsOnRestore",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/snapshots/RestoreSnapshotIT.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Integração",
+    "concorda": false
+  },
+  {
+    "method_name": "testTypeEnumOrder",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/cluster/routing/allocation/decider/DecisionTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testAccessTokenTypeMandatesAllowedSubjects",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/authc/jwt/JwtAuthenticatorAccessTokenTypeTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testIndexStoreFactoryConflictsWithBuiltInIndexStoreType",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/plugins/IndexStorePluginTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Integração",
+    "concorda": false
+  },
+  {
+    "method_name": "testTermsQuery",
+    "file_path": "elasticsearch-main/modules/mapper-extras/src/test/java/org/elasticsearch/index/mapper/extras/MatchOnlyTextFieldTypeTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testCallMatcherDirectly",
+    "file_path": "elasticsearch-main/modules/lang-painless/src/test/java/org/elasticsearch/painless/RegexTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testRewritingShouldThrowIfNotProjectMatchExpression",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/search/crossproject/CrossProjectIndexExpressionsRewriterTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testLongConst",
+    "file_path": "elasticsearch-main/modules/lang-painless/src/test/java/org/elasticsearch/painless/SubtractionTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testMaxHash",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/search/aggregations/bucket/geogrid/GeoHashBoundedPredicateTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testCountOnStart",
+    "file_path": "elasticsearch-main/x-pack/plugin/watcher/src/test/java/org/elasticsearch/xpack/watcher/trigger/TriggerServiceTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testParamAsIntegerWithIntegerParameter",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/rest/RestRequestTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testConversionToDateTime",
+    "file_path": "elasticsearch-main/x-pack/plugin/esql/src/test/java/org/elasticsearch/xpack/esql/type/DataTypeConversionTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testStatusIndicatesHealthProblem",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/health/HealthStatusTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testSubstringFunctionWithValidInput",
+    "file_path": "elasticsearch-main/x-pack/plugin/sql/src/test/java/org/elasticsearch/xpack/sql/expression/function/scalar/string/SubstringProcessorTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testBeyondBmpCharacters",
+    "file_path": "elasticsearch-main/modules/analysis-common/src/test/java/org/elasticsearch/analysis/common/ESSynonymMapBuilderTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testDecodeInvalidCopyOffsetZero",
+    "file_path": "elasticsearch-main/x-pack/plugin/prometheus/src/test/java/org/elasticsearch/xpack/prometheus/rest/SnappyBlockDecoderTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testSetExpiresIn_GivenZero",
+    "file_path": "elasticsearch-main/x-pack/plugin/core/src/test/java/org/elasticsearch/xpack/core/ml/action/ForecastJobActionRequestTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testVectorEquality",
+    "file_path": "elasticsearch-main/x-pack/plugin/esql/compute/src/test/java/org/elasticsearch/compute/data/LongBlockEqualityTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testVersionToStringEmptyMajor",
+    "file_path": "elasticsearch-main/modules/user-agent/src/test/java/org/elasticsearch/useragent/UserAgentParserImplTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testLowLevelCancellationActions",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/search/aggregations/support/TimeSeriesCancellationTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testdefTobyteExplicit",
+    "file_path": "elasticsearch-main/modules/lang-painless/src/test/java/org/elasticsearch/painless/DefCastTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testLocalAlias",
+    "file_path": "elasticsearch-main/x-pack/plugin/esql/src/internalClusterTest/java/org/elasticsearch/xpack/esql/session/EsqlResolvedIndexExpressionIT.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Integração",
+    "concorda": false
+  },
+  {
+    "method_name": "testDefaultSearchQuoteAnalyzer",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/index/mapper/DefaultAnalyzersTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Integração",
+    "concorda": false
+  },
+  {
+    "method_name": "testRetentionPolicyDeleteByQueryThrowsTemporaryProblem",
+    "file_path": "elasticsearch-main/x-pack/plugin/transform/src/test/java/org/elasticsearch/xpack/transform/transforms/TransformIndexerFailureHandlingTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testEmbeddingsRequestAction_Titan",
+    "file_path": "elasticsearch-main/x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/services/amazonbedrock/action/AmazonBedrockActionCreatorTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testCloseIdleConnections_IsCalled",
+    "file_path": "elasticsearch-main/x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/external/http/IdleConnectionEvictorTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testAsSubAgg",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/search/aggregations/bucket/histogram/NumericHistogramAggregatorTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Integração",
+    "concorda": false
+  },
+  {
+    "method_name": "testPartialFieldsRequested",
+    "file_path": "elasticsearch-main/x-pack/plugin/esql/src/test/java/org/elasticsearch/xpack/esql/evaluator/command/UserAgentFunctionBridgeTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testFailedJoinAttemptLogLevel",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/cluster/coordination/JoinHelperTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testGetChildren_ByType",
+    "file_path": "elasticsearch-main/x-pack/plugin/ml/src/test/java/org/elasticsearch/xpack/ml/job/process/normalizer/InfluencerNormalizableTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testParseBoolean",
+    "file_path": "elasticsearch-main/modules/ingest-geoip/src/test/java/org/elasticsearch/ingest/geoip/IpinfoIpDataLookupsTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testRomanianAnalyzerPreLucene10",
+    "file_path": "elasticsearch-main/modules/analysis-common/src/test/java/org/elasticsearch/analysis/common/RomanianAnalyzerTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Traço de Componente",
+    "concorda": false
+  },
+  {
+    "method_name": "testReset",
+    "file_path": "elasticsearch-main/x-pack/plugin/ml/qa/native-multi-node-tests/src/javaRestTest/java/org/elasticsearch/xpack/ml/integration/ResetJobIT.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Integração",
+    "concorda": false
+  },
+  {
+    "method_name": "testRandomLine",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/common/geo/GeometryNormalizerTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testSha1SelfGenerated",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/authc/support/HasherTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testTermsEnum",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/index/fielddata/HighCardinalityKeywordFieldDataTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Integração",
+    "concorda": false
+  },
+  {
+    "method_name": "testIntBraceMapOptiLoad",
+    "file_path": "elasticsearch-main/modules/lang-painless/src/test/java/org/elasticsearch/painless/DefOptimizationTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": false
+  },
+  {
+    "method_name": "testResolveTokenGroupsSID",
+    "file_path": "elasticsearch-main/x-pack/qa/third-party/active-directory/src/test/java/org/elasticsearch/xpack/security/authc/ldap/ActiveDirectorySessionFactoryTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Integração",
+    "concorda": false
+  },
+  {
+    "method_name": "testEncodingRoundTrip",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/common/logging/ChunkedLoggingStreamTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testCoerceHole",
+    "file_path": "elasticsearch-main/modules/legacy-geo/src/test/java/org/elasticsearch/legacygeo/builders/PolygonBuilderTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testChainedConcreteIndexWithSelectorIsRejected",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/search/crossproject/CrossProjectIndexExpressionsRewriterTests.java",
+    "ferramenta": "Unitário puro",
+    "manual": "Unitário puro",
+    "concorda": true
+  },
+  {
+    "method_name": "testCloseIndexIsRejected",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/operateAllIndices/DestructiveOperationsIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testForbiddenActionAllowed",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/bootstrap/WithoutEntitlementsMetaTests.java",
+    "ferramenta": "Integração",
+    "manual": "Unitário puro",
+    "concorda": false
+  },
+  {
+    "method_name": "testSimpleExample",
+    "file_path": "elasticsearch-main/x-pack/plugin/sql/qa/jdbc/src/main/java/org/elasticsearch/xpack/sql/qa/jdbc/SimpleExampleTestCase.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testSimpleNested",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/search/fetch/subphase/InnerHitsIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testNodeLeftGeneration",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/cluster/SimpleClusterStateIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testThatCustomHighlighterCanBeConfiguredPerField",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/search/fetch/subphase/highlight/CustomHighlighterSearchIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testRandomDirectoryIOExceptions",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/search/basic/SearchWithRandomIOExceptionsIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testMessyElectionsStillMakeClusterGoGreen",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/gateway/RecoveryFromGatewayIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testOpenWaitingForActiveShardsFailed",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/indices/state/OpenCloseIndexIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testSetProxy",
+    "file_path": "elasticsearch-main/x-pack/plugin/watcher/src/test/java/org/elasticsearch/xpack/watcher/common/http/HttpClientTests.java",
+    "ferramenta": "Integração",
+    "manual": "Unitário puro",
+    "concorda": false
+  },
+  {
+    "method_name": "testMPUCompareAndExchangeCleanup",
+    "file_path": "elasticsearch-main/modules/repository-s3/qa/third-party/src/test/java/org/elasticsearch/repositories/s3/S3RepositoryThirdPartyTests.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testBootstrapCheckOfValidFile",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/authc/support/RoleMappingFileBootstrapCheckTests.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": false
+  },
+  {
+    "method_name": "testSingleDeprecationWarning",
+    "file_path": "elasticsearch-main/x-pack/plugin/sql/qa/jdbc/src/main/java/org/elasticsearch/xpack/sql/qa/jdbc/JdbcWarningsTestCase.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testDelayedMappingPropagationOnReplica",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/cluster/coordination/RareClusterStateIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testByteBufferReadThenByteArrayRead",
+    "file_path": "elasticsearch-main/x-pack/plugin/esql-datasource-parquet/src/test/java/org/elasticsearch/xpack/esql/datasource/parquet/ParquetStorageObjectAdapterTests.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testAnalyzeNormalizedKeywordField",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/indices/analyze/AnalyzeActionIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testReduceReroutePriorityWhenAllAssigned",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/cluster/action/shard/ShardStateActionIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testBindAnyLocalV4",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/common/network/NetworkServiceTests.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": false
+  },
+  {
+    "method_name": "testDistanceScoreGeoLinGaussExp",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/search/functionscore/DecayFunctionScoreIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testIndexTemplatesWithBlocks",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/indices/template/IndexTemplateBlocksIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testEmpty",
+    "file_path": "elasticsearch-main/x-pack/plugin/sql/sql-client/src/test/java/org/elasticsearch/xpack/sql/client/UriUtilsTests.java",
+    "ferramenta": "Integração",
+    "manual": "Unitário puro",
+    "concorda": false
+  },
+  {
+    "method_name": "testExplainExecution",
+    "file_path": "elasticsearch-main/x-pack/plugin/ilm/src/internalClusterTest/java/org/elasticsearch/xpack/ilm/IndexLifecycleInitialisationTests.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testRejectMoreThanOneShard",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/index/LookupIndexModeIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testSimpleReverseNestedToNested1",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/search/aggregations/bucket/ReverseNestedIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testLongBufferMethods",
+    "file_path": "elasticsearch-main/modules/lang-painless/src/test/java/org/elasticsearch/painless/BufferTests.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testCanRemoveRetentionLeasesUnderBlock",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/index/seqno/RetentionLeaseIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testKeyManagerFailsWithIncorrectStorePassword",
+    "file_path": "elasticsearch-main/libs/ssl-config/src/test/java/org/elasticsearch/common/ssl/StoreKeyConfigTests.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testWithStatsSubAggregator",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/search/aggregations/bucket/GlobalIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testKeywordWithWhitespace",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/search/query/QueryStringIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testTranslogStats",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/indices/state/OpenCloseIndexIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testRejectWithoutResumeInfo",
+    "file_path": "elasticsearch-main/modules/reindex/src/internalClusterTest/java/org/elasticsearch/index/reindex/ReindexResumeIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testPeerRecoveryForClosedIndices",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/gateway/ReplicaShardAllocatorIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testToDocument_List",
+    "file_path": "elasticsearch-main/x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/services/amazonbedrock/request/completion/AmazonBedrockConverseUtilsTests.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testPartiallyUnmapped",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/search/aggregations/bucket/GeoHashGridIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testEachMasterPublishesTheirThresholds",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/health/HealthMetadataServiceIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testThatSystemKeyMayOnlyBeReadByOwner",
+    "file_path": "elasticsearch-main/x-pack/qa/security-tools-tests/src/test/java/org/elasticsearch/xpack/security/crypto/tool/SystemKeyToolTests.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testSingleValuedField",
+    "file_path": "elasticsearch-main/test/framework/src/main/java/org/elasticsearch/search/aggregations/metrics/AbstractNumericTestCase.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testSimpleMatch",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/search/profile/query/QueryProfilerIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testAppendSlashSegmentToPath",
+    "file_path": "elasticsearch-main/x-pack/plugin/sql/sql-client/src/test/java/org/elasticsearch/xpack/sql/client/UriUtilsTests.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": false
+  },
+  {
+    "method_name": "testNull",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/common/logging/LoggingOutputStreamTests.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": false
+  },
+  {
+    "method_name": "testBulkIndexingWhileInitializing",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/action/bulk/BulkWithUpdatesIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testCloseOpenMultipleIndices",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/indices/state/OpenCloseIndexIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testThatBulkProcessor2CountIsCorrect",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/action/bulk/BulkProcessor2IT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testGetFieldMappingsWithFieldAlias",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/indices/mapping/SimpleGetFieldMappingsIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testTelemetryForRRFRetriever",
+    "file_path": "elasticsearch-main/x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/rank/textsimilarity/TextSimilarityRankRetrieverTelemetryTests.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testPathFilterOnlyAffectsMatchingPaths",
+    "file_path": "elasticsearch-main/x-pack/plugin/esql/qa/server/multi-node/src/javaRestTest/java/org/elasticsearch/xpack/esql/qa/multi_node/FaultInjectingS3HttpHandlerIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testNoopUpdate",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/indices/settings/UpdateSettingsIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testBM25AndMultipleKnnWithAggregation",
+    "file_path": "elasticsearch-main/x-pack/plugin/rank-rrf/src/internalClusterTest/java/org/elasticsearch/xpack/rank/rrf/RRFRankMultiShardIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testSortMixedFieldTypes",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/search/sort/FieldSortIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testMultipleOnlyKnn",
+    "file_path": "elasticsearch-main/x-pack/plugin/rank-rrf/src/internalClusterTest/java/org/elasticsearch/xpack/rank/rrf/RRFRankMultiShardIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testSingleField",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/search/query/MultiMatchQueryIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testCircuitBreakerTripsOnSingleLargeDocument",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/search/fetch/ChunkedFetchPhaseCircuitBreakerTrippingIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testBasic",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/index/LookupIndexModeIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testBulkWithWriteIndexAndRouting",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/action/bulk/BulkIntegrationIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testLicenseSpecString",
+    "file_path": "elasticsearch-main/x-pack/license-tools/src/test/java/org/elasticsearch/license/licensor/tools/LicenseVerificationToolTests.java",
+    "ferramenta": "Integração",
+    "manual": "Traço de Componente",
+    "concorda": false
+  },
+  {
+    "method_name": "testRestart",
+    "file_path": "elasticsearch-main/test/framework/src/integTest/java/org/elasticsearch/test/test/InternalClusterForbiddenSettingIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "test72ReconfigureRetainsUserSettings",
+    "file_path": "elasticsearch-main/qa/packaging/src/test/java/org/elasticsearch/packaging/test/PackagesSecurityAutoConfigurationTests.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testPrivacyDetectionInvariants",
+    "file_path": "elasticsearch-main/modules/ingest-geoip/src/test/java/org/elasticsearch/ingest/geoip/IpinfoIpDataLookupsTests.java",
+    "ferramenta": "Integração",
+    "manual": "Unitário puro",
+    "concorda": false
+  },
+  {
+    "method_name": "testFailsWithBlockExceptionIfBlockedAndBlocksNotRequested",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/action/admin/cluster/state/TransportClusterStateActionDisruptionIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testActionFailsWhenPrimaryCircuitBreakersAreAtCapacity",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/action/support/replication/TransportReplicationActionBypassCircuitBreakerOnReplicaIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testThrownExceptionsWhenSettingFloatValues",
+    "file_path": "elasticsearch-main/x-pack/plugin/sql/jdbc/src/test/java/org/elasticsearch/xpack/sql/jdbc/JdbcPreparedStatementTests.java",
+    "ferramenta": "Integração",
+    "manual": "Unitário puro",
+    "concorda": false
+  },
+  {
+    "method_name": "testRoutingTable",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/cluster/SimpleClusterStateIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testRandomSorting",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/search/sort/FieldSortIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testConnectionGranted",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/audit/AuditTrailServiceTests.java",
+    "ferramenta": "Integração",
+    "manual": "Traço de Componente",
+    "concorda": false
+  },
+  {
+    "method_name": "testLocalReindexPitOpenFailureMetrics",
+    "file_path": "elasticsearch-main/modules/reindex/src/internalClusterTest/java/org/elasticsearch/index/reindex/ReindexPluginMetricsIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testConsistentHitsWithSameSeed",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/search/functionscore/RandomScoreFunctionIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testManyDocsLin",
+    "file_path": "elasticsearch-main/server/src/internalClusterTest/java/org/elasticsearch/search/functionscore/DecayFunctionScoreIT.java",
+    "ferramenta": "Integração",
+    "manual": "Integração",
+    "concorda": true
+  },
+  {
+    "method_name": "testGetAuthenticationDoesNotSwallowIOException",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/SecurityContextTests.java",
+    "ferramenta": "Integração",
+    "manual": "Unitário puro",
+    "concorda": false
+  },
+  {
+    "method_name": "testPathNormalization",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/env/EnvironmentTests.java",
+    "ferramenta": "Integração",
+    "manual": "Traço de Componente",
+    "concorda": false
+  },
+  {
+    "method_name": "testNewStreamWrapsOtherStorageExceptionAsIOException",
+    "file_path": "elasticsearch-main/x-pack/plugin/esql-datasource-gcs/src/test/java/org/elasticsearch/xpack/esql/datasource/gcs/GcsStorageObjectTests.java",
+    "ferramenta": "Integração",
+    "manual": "Traço de Componente",
+    "concorda": false
+  },
+  {
+    "method_name": "testReadBytesAsyncReturnsData",
+    "file_path": "elasticsearch-main/x-pack/plugin/esql-datasource-gcs/src/test/java/org/elasticsearch/xpack/esql/datasource/gcs/GcsStorageObjectTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testGetUsers",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/authc/esnative/ReservedRealmTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testUpdateTaskState",
+    "file_path": "elasticsearch-main/modules/ingest-geoip/src/test/java/org/elasticsearch/ingest/geoip/GeoIpDownloaderTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testExecuteInnerThrottled",
+    "file_path": "elasticsearch-main/x-pack/plugin/watcher/src/test/java/org/elasticsearch/xpack/watcher/execution/ExecutionServiceTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testMultiFieldWithinMultiField",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/index/mapper/TypeParsersTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testExecuteConditionNotMet",
+    "file_path": "elasticsearch-main/x-pack/plugin/watcher/src/test/java/org/elasticsearch/xpack/watcher/execution/ExecutionServiceTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testException",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/action/user/TransportPutUserActionTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testStreamDoubleCloseIsSafe",
+    "file_path": "elasticsearch-main/x-pack/plugin/esql/src/test/java/org/elasticsearch/xpack/esql/datasources/ConcurrencyLimitedStorageObjectTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": false
+  },
+  {
+    "method_name": "testHandlingNoClusters",
+    "file_path": "elasticsearch-main/x-pack/plugin/transform/src/test/java/org/elasticsearch/xpack/transform/checkpoint/DefaultCheckpointProviderTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testRequest_DoesNotCallOnFailureForTimeout_AfterAlreadyCallingOnResponse",
+    "file_path": "elasticsearch-main/x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/external/http/sender/TimedListenerTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testBlockLoaderLoadsFromSourceByDefault",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/index/mapper/TextFieldTypeTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testFailsToDeleteEndpointIfModelDeploymentStopFails_WhenForceIsFalse",
+    "file_path": "elasticsearch-main/x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/action/TransportDeleteInferenceEndpointActionTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testReferenceCounting",
+    "file_path": "elasticsearch-main/x-pack/plugin/ml/src/test/java/org/elasticsearch/xpack/ml/inference/loadingservice/LocalModelTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testReturnMultiValueObject",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/search/aggregations/pipeline/BucketHelpersTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Unitário puro",
+    "concorda": false
+  },
+  {
+    "method_name": "testProcessResult_bucket_isInterim",
+    "file_path": "elasticsearch-main/x-pack/plugin/ml/src/test/java/org/elasticsearch/xpack/ml/job/process/autodetect/output/AutodetectResultProcessorTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testExecutorNotifiesListenerAndReroutesAllocationService",
+    "file_path": "elasticsearch-main/modules/data-streams/src/test/java/org/elasticsearch/datastreams/lifecycle/downsampling/DeleteSourceAndAddDownsampleIndexExecutorTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testParallelParsingUsedForSegmentableReader",
+    "file_path": "elasticsearch-main/x-pack/plugin/esql/src/test/java/org/elasticsearch/xpack/esql/datasources/AsyncExternalSourceOperatorFactoryTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testTriggerWithoutHeaders",
+    "file_path": "elasticsearch-main/x-pack/plugin/rollup/src/test/java/org/elasticsearch/xpack/rollup/job/RollupJobTaskTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testClientSecretSettingRequired",
+    "file_path": "elasticsearch-main/x-pack/extras/plugins/microsoft-graph-authz/src/test/java/org/elasticsearch/xpack/security/authz/microsoft/MicrosoftGraphAuthzRealmTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testOnIndexModuleIsNoOpWithSecurityDisabled",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/SecurityTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testIgnoreAboveIsSetReturnsFalseWhenIgnoreAboveIsGivenButItsTheSameAsDefault",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/index/mapper/KeywordFieldTypeTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Unitário puro",
+    "concorda": false
+  },
+  {
+    "method_name": "testLenient",
+    "file_path": "elasticsearch-main/x-pack/plugin/sql/sql-cli/src/test/java/org/elasticsearch/xpack/sql/cli/command/BuiltinCommandTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Unitário puro",
+    "concorda": false
+  },
+  {
+    "method_name": "testLicenseInvalidForInference",
+    "file_path": "elasticsearch-main/x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/action/filter/ShardBulkInferenceActionFilterTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testEnableUpgradeMode",
+    "file_path": "elasticsearch-main/x-pack/plugin/transform/src/test/java/org/elasticsearch/xpack/transform/action/TransportSetTransformUpgradeModeActionTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testCrossClusterAccessInboundMissingHeadersFail",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/transport/CrossClusterAccessServerTransportFilterTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testExcludedPatternIndicesAreNotAutoFollowed",
+    "file_path": "elasticsearch-main/x-pack/plugin/ccr/src/test/java/org/elasticsearch/xpack/ccr/action/AutoFollowCoordinatorTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testRegisterAsDeprecatedHandler",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/rest/RestControllerTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Unitário puro",
+    "concorda": false
+  },
+  {
+    "method_name": "testWithUnknownApiServiceSettings",
+    "file_path": "elasticsearch-main/x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/services/sagemaker/schema/SageMakerSchemaPayloadTestCase.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Unitário puro",
+    "concorda": false
+  },
+  {
+    "method_name": "testParallelCache",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/search/lookup/LeafDocLookupTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testUserModifyingThemselves",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/action/user/TransportSetEnabledActionTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testAnonymousUser",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/action/user/TransportDeleteUserActionTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testSniff",
+    "file_path": "elasticsearch-main/client/sniffer/src/test/java/org/elasticsearch/client/sniff/SnifferTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Unitário puro",
+    "concorda": false
+  },
+  {
+    "method_name": "testFailureWhenNativeUsersDisabled",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/rest/action/user/RestPutUserActionTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testTotalBytesDecrement",
+    "file_path": "elasticsearch-main/x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/external/http/StreamingHttpResultPublisherTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testLiveOnlyProcess",
+    "file_path": "elasticsearch-main/x-pack/plugin/rollup/src/test/java/org/elasticsearch/xpack/rollup/action/SearchActionTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testBlockLoaderLoadsFromFallbackBinaryDocValuesWhenSyntheticSourceIsEnabled",
+    "file_path": "elasticsearch-main/modules/mapper-extras/src/test/java/org/elasticsearch/index/mapper/extras/MatchOnlyTextFieldTypeTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testBlockLoaderDelegatesToParentKeywordField",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/index/mapper/TextFieldTypeTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testExecute_ThrowsElasticsearchException",
+    "file_path": "elasticsearch-main/x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/services/googlevertexai/action/GoogleVertexAiEmbeddingsActionTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testMethod_SleepsForOneMinute_WhenRequestingOneUnavailableToken_NoAccumulated",
+    "file_path": "elasticsearch-main/x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/common/BaseRateLimiterTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": false
+  },
+  {
+    "method_name": "testCreateAnalyticsCollection",
+    "file_path": "elasticsearch-main/x-pack/plugin/ent-search/src/test/java/org/elasticsearch/xpack/application/analytics/AnalyticsCollectionServiceTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testTransportMultiGetAction_withMissingRouting",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/action/get/TransportMultiGetActionTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testDeleteAnalyticsCollection",
+    "file_path": "elasticsearch-main/x-pack/plugin/ent-search/src/test/java/org/elasticsearch/xpack/application/analytics/AnalyticsCollectionServiceTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testAuthenticationDelegationSuccess",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/authc/pki/PkiRealmTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testValidateLifecycleInComponentTemplate",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/cluster/metadata/DataStreamLifecycleWithRetentionWarningsTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testPreferNewIndices",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/gateway/PriorityComparatorTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Unitário puro",
+    "concorda": false
+  },
+  {
+    "method_name": "testTaskAlreadyExists",
+    "file_path": "elasticsearch-main/x-pack/plugin/rollup/src/test/java/org/elasticsearch/xpack/rollup/action/PutJobStateMachineTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testGetMaxMapCount",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/bootstrap/MaxMapCountCheckTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testReservedUsersOnly",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/action/user/TransportGetUsersActionTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testTimeout",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/index/shard/GlobalCheckpointListenersTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testPostIndexException",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/index/shard/IndexingFailuresDebugListenerTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testInitializeIndexerWhenAlreadyInitialized",
+    "file_path": "elasticsearch-main/x-pack/plugin/transform/src/test/java/org/elasticsearch/xpack/transform/transforms/TransformTaskTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testCheckAndPublishEvenWhenDirty",
+    "file_path": "elasticsearch-main/x-pack/plugin/monitoring/src/test/java/org/elasticsearch/xpack/monitoring/exporter/http/HttpResourceTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testCreateElasticUser",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/authc/esnative/NativeUsersStoreTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testProcessFetchWhileTaskIsCancelled",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/search/rank/RankFeatureShardPhaseTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testDescribeShowsParallelParseMode",
+    "file_path": "elasticsearch-main/x-pack/plugin/esql/src/test/java/org/elasticsearch/xpack/esql/datasources/AsyncExternalSourceOperatorFactoryTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testAnonymousUser",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/action/user/TransportChangePasswordActionTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testUpdateMigrationVersionThrowsException",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/support/SecurityMigrationExecutorTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testUpdateStatsUpgradeMode",
+    "file_path": "elasticsearch-main/x-pack/plugin/ml/src/test/java/org/elasticsearch/xpack/ml/inference/TrainedModelStatsServiceTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testLoadNoExtensions",
+    "file_path": "elasticsearch-main/x-pack/plugin/core/src/test/java/org/elasticsearch/xpack/core/XPackPluginTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testPutLargeHistory",
+    "file_path": "elasticsearch-main/x-pack/plugin/watcher/src/test/java/org/elasticsearch/xpack/watcher/history/HistoryStoreTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testPrivilegeForActions",
+    "file_path": "elasticsearch-main/x-pack/plugin/ccr/src/test/java/org/elasticsearch/xpack/ccr/action/repositories/GetCcrRestoreFileChunkActionTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Unitário puro",
+    "concorda": false
+  },
+  {
+    "method_name": "testTimeToReserve_Returns_0Seconds_WhenTokenIsAlreadyAvailable",
+    "file_path": "elasticsearch-main/x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/common/RateLimiterTimeToReserveTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testFindDfaMemoryUsage",
+    "file_path": "elasticsearch-main/x-pack/plugin/ml/src/test/java/org/elasticsearch/xpack/ml/MlMetricsTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testExecute",
+    "file_path": "elasticsearch-main/x-pack/plugin/watcher/src/test/java/org/elasticsearch/xpack/watcher/actions/jira/JiraActionTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testForceStopBeforeIndexingThreadStarts",
+    "file_path": "elasticsearch-main/x-pack/plugin/transform/src/test/java/org/elasticsearch/xpack/transform/transforms/TransformIndexerStateTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testChunkedInferError",
+    "file_path": "elasticsearch-main/x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/services/sagemaker/SageMakerServiceTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testBuildContext",
+    "file_path": "elasticsearch-main/x-pack/plugin/ml/src/test/java/org/elasticsearch/xpack/ml/inference/ltr/LearningToRankRescorerBuilderRewriteTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Integração",
+    "concorda": false
+  },
+  {
+    "method_name": "testNoProfileSubjectsFound",
+    "file_path": "elasticsearch-main/x-pack/plugin/security/src/test/java/org/elasticsearch/xpack/security/action/profile/TransportProfileHasPrivilegesActionTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testProcessStartTime",
+    "file_path": "elasticsearch-main/x-pack/plugin/ml/src/test/java/org/elasticsearch/xpack/ml/job/process/autodetect/NativeAutodetectProcessTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  },
+  {
+    "method_name": "testTranslogSyncAfterGlobalCheckpointSync",
+    "file_path": "elasticsearch-main/server/src/test/java/org/elasticsearch/index/seqno/GlobalCheckpointSyncActionTests.java",
+    "ferramenta": "Traço de Componente",
+    "manual": "Traço de Componente",
+    "concorda": true
+  }
+]

@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  classifier:
+    build: .
+    container_name: ast_classifier
+    stdin_open: true
+    tty: true
+    env_file:
+      - .env          
+    volumes:
+      - ./data:/app/data
+      - ./reports:/app/reports
